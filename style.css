@@ -1,0 +1,21 @@
+header {
+    background-color: gray;
+    color: aliceblue;
+}
+
+
+.cabealho-imagem{
+
+    width: 20%;
+}
+
+.cabecalho{
+background-color: blueviolet;
+color: black;
+display: flex;
+}
+
+.cabecalho-lista-item{
+
+    display: inline-block;
+}
